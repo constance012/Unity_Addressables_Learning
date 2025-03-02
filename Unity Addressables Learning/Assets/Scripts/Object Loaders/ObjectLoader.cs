@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class ObjectLoader : MonoBehaviour
 {
-	[SerializeField] private Transform _environmentPrefab;
+	[SerializeField] private GameObject _environmentPrefab;
 
 	private void Update()
 	{
