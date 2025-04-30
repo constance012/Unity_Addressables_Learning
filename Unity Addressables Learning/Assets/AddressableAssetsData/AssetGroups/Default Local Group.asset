@@ -24,7 +24,7 @@ MonoBehaviour:
     - environment
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 512e7f45d894ae246af83344e9923c6c
-    m_Address: environment_small.prefab
+    m_Address: environment_small
     m_ReadOnly: 0
     m_SerializedLabels:
     - environment
